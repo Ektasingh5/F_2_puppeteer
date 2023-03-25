@@ -1,0 +1,26 @@
+{
+  "name": "f_2_puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ektasingh5/F_2_puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ektasingh5/F_2_puppeteer/issues"
+  },
+  "homepage": "https://github.com/Ektasingh5/F_2_puppeteer#readme",
+  "dependencies": {
+    "async": "^3.2.4",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "puppeteer": "^19.8.0"
+  }
+}
